@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "20e5",
+      "name": "Pankaj Tripathi",
+      "username": "ptripathi",
+      "email": "ptripathi05@gmail.com",
+      "phone": "7895478956"
+    },
+    {
+      "id": "8011",
+      "name": "Ayushmaan Khurana",
+      "username": "ayushmankhurana",
+      "email": "ayushmaan09@gmail.com",
+      "phone": "7852456585"
+    },
+    {
+      "id": "c3a7",
+      "name": "Nikhil Parmar",
+      "username": "nikhilparmar",
+      "email": "parmarnikhil09@gmail.com",
+      "phone": "785456589"
+    },
+    {
+      "id": "cbdb",
+      "name": "Himanshu Namdeo",
+      "username": "namdeohimanshu",
+      "email": "namdeohimanshu1@gmail.com",
+      "phone": "7854563215"
+    }
+  ]
+}
