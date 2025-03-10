@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pranjal3II2/Crud-App/static/css/main.f855e6bc.css",
+    "main.js": "/pranjal3II2/Crud-App/static/js/main.15d88d4e.js",
+    "index.html": "/pranjal3II2/Crud-App/index.html",
+    "main.f855e6bc.css.map": "/pranjal3II2/Crud-App/static/css/main.f855e6bc.css.map",
+    "main.15d88d4e.js.map": "/pranjal3II2/Crud-App/static/js/main.15d88d4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.15d88d4e.js"
+  ]
+}
